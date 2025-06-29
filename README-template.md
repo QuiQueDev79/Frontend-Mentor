@@ -29,9 +29,8 @@ I hope to continue advancing in my learning.
 
 
 ### Links
-***Me falta esto***
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Solution URL: (https://quiquedev79.github.io/Frontend-Mentor/)
 
 ## My process
 
